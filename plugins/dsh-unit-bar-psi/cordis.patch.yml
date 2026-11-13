@@ -1,0 +1,4 @@
+# 单位换算：巴转磅每平方英寸
+- insert:
+    - id: dsh-unit-bar-psi
+      name: "dsh-unit-bar-psi"

@@ -1,0 +1,4 @@
+# 单位换算：英里每小时转千米每小时
+- insert:
+    - id: dsh-unit-mph-kmh
+      name: "dsh-unit-mph-kmh"

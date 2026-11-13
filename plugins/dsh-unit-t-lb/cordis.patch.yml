@@ -1,0 +1,4 @@
+# 单位换算：吨转磅
+- insert:
+    - id: dsh-unit-t-lb
+      name: "dsh-unit-t-lb"

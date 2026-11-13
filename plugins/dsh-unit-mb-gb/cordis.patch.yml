@@ -1,0 +1,4 @@
+# 单位换算：兆字节转吉字节
+- insert:
+    - id: dsh-unit-mb-gb
+      name: "dsh-unit-mb-gb"

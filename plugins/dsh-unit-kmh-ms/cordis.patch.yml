@@ -1,0 +1,4 @@
+# 单位换算：千米每小时转米每秒
+- insert:
+    - id: dsh-unit-kmh-ms
+      name: "dsh-unit-kmh-ms"

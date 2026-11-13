@@ -1,0 +1,4 @@
+# 单位换算：分钟转小时
+- insert:
+    - id: dsh-unit-min-h
+      name: "dsh-unit-min-h"

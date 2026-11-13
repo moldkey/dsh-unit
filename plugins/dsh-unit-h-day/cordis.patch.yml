@@ -1,0 +1,4 @@
+# 单位换算：小时转天
+- insert:
+    - id: dsh-unit-h-day
+      name: "dsh-unit-h-day"

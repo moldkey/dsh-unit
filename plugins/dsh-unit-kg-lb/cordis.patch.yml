@@ -1,0 +1,4 @@
+# 单位换算：千克转磅
+- insert:
+    - id: dsh-unit-kg-lb
+      name: "dsh-unit-kg-lb"
